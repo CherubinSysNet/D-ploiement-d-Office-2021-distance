@@ -1,9 +1,0 @@
-<Configuration>
-    <Add SourcePath="\\Desktop-lbl8hcm\office2021" OfficeClientEdition="64" Channel="PerpetualVL2021">
-        <Product ID="ProPlus2021Volume">
-            <Language ID="fr-FR" />
-        </Product>
-    </Add>
-    <Display Level="None" AcceptEULA="TRUE" />
-    <Property Name="AUTOACTIVATE" Value="1" />
-</Configuration>
